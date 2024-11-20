@@ -1,6 +1,8 @@
 Quá bận để ghi Readme.md =)).
 
-Training model ở face_recognition_model_face_detecting.
+Training model nhận diện đối tượng ở face_recognition_model_face_detecting.
+
+Training model nhận diện giả mạo ở cnn_model_face_detecting
 
 Test model ở face_recognition_face_detecting.
 
